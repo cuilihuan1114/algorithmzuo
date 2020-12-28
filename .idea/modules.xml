@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm-leetcode-master/algorithm-leetcode-master.iml" filepath="$PROJECT_DIR$/algorithm-leetcode-master/algorithm-leetcode-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm-pratice/algorithm-pratice.iml" filepath="$PROJECT_DIR$/algorithm-pratice/algorithm-pratice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../algorithmbasic2020-master/algorithmbasic2020-master.iml" filepath="$PROJECT_DIR$/../algorithmbasic2020-master/algorithmbasic2020-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithmzuo.iml" filepath="$PROJECT_DIR$/algorithmzuo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../leetcode-top-100-liked-questions-master/leetcode-top-100-liked-questions-master.iml" filepath="$PROJECT_DIR$/../leetcode-top-100-liked-questions-master/leetcode-top-100-liked-questions-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../leetcode-top-interview-questions-master/leetcode-top-interview-questions-master.iml" filepath="$PROJECT_DIR$/../leetcode-top-interview-questions-master/leetcode-top-interview-questions-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../publicclass2020-master/publicclass2020-master.iml" filepath="$PROJECT_DIR$/../publicclass2020-master/publicclass2020-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trainingcamp001-master/trainingcamp001-master.iml" filepath="$PROJECT_DIR$/../trainingcamp001-master/trainingcamp001-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trainingcamp002-master/trainingcamp002-master.iml" filepath="$PROJECT_DIR$/../trainingcamp002-master/trainingcamp002-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trainingcamp003-master/trainingcamp003-master.iml" filepath="$PROJECT_DIR$/../trainingcamp003-master/trainingcamp003-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trainingcamp004-master/trainingcamp004-master.iml" filepath="$PROJECT_DIR$/../trainingcamp004-master/trainingcamp004-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trainingcamp005-master/trainingcamp005-master.iml" filepath="$PROJECT_DIR$/../trainingcamp005-master/trainingcamp005-master.iml" />
+    </modules>
+  </component>
+</project>

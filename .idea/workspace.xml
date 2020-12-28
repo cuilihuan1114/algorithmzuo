@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d89d458a-c2b3-4779-a0ed-1ff5afe01252" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kMd3qWyc4ywp2gSX27tlu1rl06" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../publicclass2020-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26436782" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Problem_0134_加油站">
+    <configuration name="Problem_0125_验证回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_0125_验证回文串" />
+      <module name="algorithm-leetcode-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_0129_求根到叶子节点数字之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_0129_求根到叶子节点数字之和" />
+      <module name="algorithm-leetcode-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_0130_被围绕的区域" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_0130_被围绕的区域" />
+      <module name="algorithm-leetcode-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_0132_分割回文串II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_0132_分割回文串II" />
+      <module name="algorithm-leetcode-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_0134_加油站" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_0134_加油站" />
+      <module name="algorithm-leetcode-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problem_0134_加油站" />
+        <item itemvalue="Application.Problem_0132_分割回文串II" />
+        <item itemvalue="Application.Problem_0125_验证回文串" />
+        <item itemvalue="Application.Problem_0130_被围绕的区域" />
+        <item itemvalue="Application.Problem_0129_求根到叶子节点数字之和" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d89d458a-c2b3-4779-a0ed-1ff5afe01252" name="Default Changelist" comment="" />
+      <created>1605514199404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605514199404</updated>
+      <workItem from="1605514200523" duration="106719000" />
+      <workItem from="1606199437131" duration="23644000" />
+      <workItem from="1606359914127" duration="23366000" />
+      <workItem from="1606904135431" duration="57691000" />
+      <workItem from="1607582322643" duration="2133000" />
+      <workItem from="1607843321218" duration="6636000" />
+      <workItem from="1608256178733" duration="4254000" />
+      <workItem from="1608274337308" duration="74459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1605755538249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1605755538249" />
+    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1606199618796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606199618796" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1608453568612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608453568612" />
+    <state x="716" y="343" key="#xdebugger.evaluate" timestamp="1608361656349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="343" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1608361656349" />
+    <state width="437" height="466" key="DebuggerActiveHint" timestamp="1608639230740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="437" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1608639230740" />
+    <state x="740" y="227" key="FileChooserDialogImpl" timestamp="1605516176930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="227" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605516176930" />
+    <state width="1877" height="133" key="GridCell.Tab.0.bottom" timestamp="1608962713229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713229" />
+    <state width="1877" height="133" key="GridCell.Tab.0.center" timestamp="1608962713227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713227" />
+    <state width="1877" height="133" key="GridCell.Tab.0.left" timestamp="1608962713227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713227" />
+    <state width="1877" height="133" key="GridCell.Tab.0.right" timestamp="1608962713229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713229" />
+    <state width="1877" height="133" key="GridCell.Tab.1.bottom" timestamp="1608962713231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713231" />
+    <state width="1877" height="133" key="GridCell.Tab.1.center" timestamp="1608962713229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713229" />
+    <state width="1877" height="133" key="GridCell.Tab.1.left" timestamp="1608962713229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713229" />
+    <state width="1877" height="133" key="GridCell.Tab.1.right" timestamp="1608962713229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713229" />
+    <state x="600" y="223" width="730" height="593" key="NewModule_or_Project.wizard" timestamp="1605514925962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="223" width="730" height="593" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605514925962" />
+    <state x="465" y="189" key="SettingsEditor" timestamp="1606199594646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="465" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606199594646" />
+    <state x="520" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606267993958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="520" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606267993957" />
+    <state x="67" y="291" width="999" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605752767572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="67" y="291" width="999" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1605752767572" />
+    <state x="662" y="74" width="596" height="891" key="find.popup" timestamp="1605923131016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="74" width="596" height="891" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605923131016" />
+    <state x="399" y="149" width="1251" height="775" key="new project wizard" timestamp="1605576975331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="399" y="149" width="1251" height="775" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605576975331" />
+    <state x="655" y="276" key="refactoring.ChangeSignatureDialog" timestamp="1605577391615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="276" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605577391615" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605707421696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605707421696" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606285686939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606285686939" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0044_通配符匹配.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0032_最长有效括号.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0043_字符串相乘.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0043_字符串相乘.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0043_字符串相乘.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0050_PowXN.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0052_N皇后II.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0052_N皇后II.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0052_N皇后II.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0076_最小覆盖子串.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-pratice/src/pso/PSO.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-pratice/src/pso/PSO.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0129_求根到叶子节点数字之和.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
