@@ -25,9 +25,9 @@ public class Problem_0034_在排序数组中查找元素的第一个和最后一
         while (left <= right) {
             int middle = (left + right) / 2;
             if (nums[middle] <= target) {
-                left++;
+                left = middle + 1;
             } else {
-                right--;
+                right = middle - 1;
             }
         }
         return left;
@@ -39,9 +39,9 @@ public class Problem_0034_在排序数组中查找元素的第一个和最后一
         while (left <= right) {
             int middle = (left + right) / 2;
             if (nums[middle] < target) {
-                left++;
+                left = middle + 1;
             } else {
-                right--;
+                right = middle - 1;
             }
         }
         return left;
