@@ -5,6 +5,11 @@ import java.util.PriorityQueue;
  * Created by CUI on 2021/1/12
  */
 public class Problem_0313_超级丑数 {
+    public static void main(String[] args) {
+        Long a = 0L;
+        System.out.println(a == 0L);
+    }
+
 
 
     public int nthSuperUglyNumber1(int n, int[] primes) {
