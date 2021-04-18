@@ -1,3 +1,5 @@
+import java.util.*;
+
 /**
  * @author cuilihuan
  * @data 2020/12/2 20:13
@@ -43,4 +45,7 @@ public class Problem_0687_最长同值路径 {
         max = Math.max(len, max);
         return new Info(max,curLen);
     }
+
+
+
 }

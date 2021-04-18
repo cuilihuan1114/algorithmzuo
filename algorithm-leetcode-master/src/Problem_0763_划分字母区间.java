@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 /**
  * Created by CUI on 2021/2/26
@@ -27,4 +26,6 @@ public class Problem_0763_划分字母区间 {
         }
         return list;
     }
+
+
 }
