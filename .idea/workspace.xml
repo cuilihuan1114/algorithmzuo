@@ -3,8 +3,57 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89d458a-c2b3-4779-a0ed-1ff5afe01252" name="Default Changelist" comment="" />
+    <list default="true" id="d89d458a-c2b3-4779-a0ed-1ff5afe01252" name="Default Changelist" comment="第五次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0407/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0408/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0409/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0410/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0414/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0415/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0416/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0421/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0422/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0423/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/D0424/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/Ten/First/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/Ten/Five/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/Ten/Fourth/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/Ten/Second/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/Ten/Thrid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/newke/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/newke/Problem_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/newke/Problem_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/newke/Problem_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/newke/Problem_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/pdd/four/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/pdd/second/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/pdd/third/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-pratice/src/pso/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-pratice/src/basic/ManacherExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-pratice/src/basic/NQueens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-pratice/src/basic/TwoSum.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +65,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -31,57 +86,96 @@
     </option>
   </component>
   <component name="ProjectId" id="1kMd3qWyc4ywp2gSX27tlu1rl06" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../publicclass2020-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algorithm-leetcode-master/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26436782" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="D0416" />
       <recent name="basic" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\视频\左程云算法\algorithmzuo\algorithm-leetcode-master\src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_0134_加油站">
-    <configuration name="Problem_0125_验证回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_0125_验证回文串" />
-      <module name="algorithm-leetcode-master" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D0421.Main" />
+      <module name="algorithm-pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D0421.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_0129_求根到叶子节点数字之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_0129_求根到叶子节点数字之和" />
-      <module name="algorithm-leetcode-master" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D0422.Main" />
+      <module name="algorithm-pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D0422.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_0130_被围绕的区域" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_0130_被围绕的区域" />
-      <module name="algorithm-leetcode-master" />
+    <configuration name="Problem_0773_滑动谜题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D0502.Problem_0773_滑动谜题" />
+      <module name="algorithm-pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D0502.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_0132_分割回文串II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_0132_分割回文串II" />
-      <module name="algorithm-leetcode-master" />
+    <configuration name="Problem_0787_K站中转内最便宜的航班" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D0502.Problem_0787_K站中转内最便宜的航班" />
+      <module name="algorithm-pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D0502.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_0134_加油站" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_0134_加油站" />
-      <module name="algorithm-leetcode-master" />
+    <configuration name="Problem_0799_香槟塔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D0501.Problem_0799_香槟塔" />
+      <module name="algorithm-pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D0501.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_0134_加油站" />
-        <item itemvalue="Application.Problem_0132_分割回文串II" />
-        <item itemvalue="Application.Problem_0125_验证回文串" />
-        <item itemvalue="Application.Problem_0130_被围绕的区域" />
-        <item itemvalue="Application.Problem_0129_求根到叶子节点数字之和" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Problem_0787_K站中转内最便宜的航班" />
+        <item itemvalue="Application.Problem_0773_滑动谜题" />
+        <item itemvalue="Application.Problem_0799_香槟塔" />
       </list>
     </recent_temporary>
   </component>
@@ -125,105 +219,152 @@
       <workItem from="1607843321218" duration="6636000" />
       <workItem from="1608256178733" duration="4254000" />
       <workItem from="1608274337308" duration="74459000" />
+      <workItem from="1609137784183" duration="678000" />
+      <workItem from="1614821401579" duration="43078000" />
+      <workItem from="1615013934342" duration="45808000" />
+      <workItem from="1615451158135" duration="69415000" />
+      <workItem from="1615857616993" duration="15950000" />
+      <workItem from="1615941811953" duration="4039000" />
+      <workItem from="1616029306723" duration="10512000" />
+      <workItem from="1616064252811" duration="70737000" />
+      <workItem from="1616374699821" duration="7856000" />
+      <workItem from="1616419499279" duration="20934000" />
+      <workItem from="1616497339899" duration="16961000" />
+      <workItem from="1616581116458" duration="70929000" />
+      <workItem from="1617525773307" duration="167721000" />
+      <workItem from="1618452619859" duration="3498000" />
+      <workItem from="1618622686683" duration="31071000" />
     </task>
+    <task id="LOCAL-00001" summary="第五次提交">
+      <created>1618756362045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618756362045</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第五次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第五次提交" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="198" key="#Inspections" timestamp="1605755538249">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1618313093064">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1605755538249" />
-    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1606199618796">
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1618313093064" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1618711151335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606199618796" />
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1608453568612">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1618711151335" />
+    <state x="623" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1618744815274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608453568612" />
-    <state x="716" y="343" key="#xdebugger.evaluate" timestamp="1608361656349">
+    <state x="623" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618744815274" />
+    <state x="574" y="383" width="772" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1618745910002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="716" y="343" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1608361656349" />
-    <state width="437" height="466" key="DebuggerActiveHint" timestamp="1608639230740">
+    <state x="574" y="383" width="772" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1618745910002" />
+    <state x="574" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1618744959091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="437" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1608639230740" />
-    <state x="740" y="227" key="FileChooserDialogImpl" timestamp="1605516176930">
+    <state x="574" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1618744959091" />
+    <state x="520" y="444" key="#xdebugger.evaluate" timestamp="1618301360445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="227" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605516176930" />
-    <state width="1877" height="133" key="GridCell.Tab.0.bottom" timestamp="1608962713229">
+    <state x="520" y="444" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1618301360445" />
+    <state width="466" height="466" key="DebuggerActiveHint" timestamp="1618714125508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="133" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713229" />
-    <state width="1877" height="133" key="GridCell.Tab.0.center" timestamp="1608962713227">
+    <state width="466" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1618714125508" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1615200695220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="133" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713227" />
-    <state width="1877" height="133" key="GridCell.Tab.0.left" timestamp="1608962713227">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615200695220" />
+    <state width="1877" height="41" key="GridCell.Tab.0.bottom" timestamp="1618756460584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="133" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713227" />
-    <state width="1877" height="133" key="GridCell.Tab.0.right" timestamp="1608962713229">
+    <state width="1877" height="41" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618756460584" />
+    <state width="1877" height="41" key="GridCell.Tab.0.center" timestamp="1618756460584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="133" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713229" />
-    <state width="1877" height="133" key="GridCell.Tab.1.bottom" timestamp="1608962713231">
+    <state width="1877" height="41" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618756460584" />
+    <state width="1877" height="41" key="GridCell.Tab.0.left" timestamp="1618756460584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="133" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713231" />
-    <state width="1877" height="133" key="GridCell.Tab.1.center" timestamp="1608962713229">
+    <state width="1877" height="41" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618756460584" />
+    <state width="1877" height="41" key="GridCell.Tab.0.right" timestamp="1618756460584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="133" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713229" />
-    <state width="1877" height="133" key="GridCell.Tab.1.left" timestamp="1608962713229">
+    <state width="1877" height="41" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618756460584" />
+    <state width="1877" height="303" key="GridCell.Tab.1.bottom" timestamp="1618751145089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="133" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713229" />
-    <state width="1877" height="133" key="GridCell.Tab.1.right" timestamp="1608962713229">
+    <state width="1877" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618751145089" />
+    <state width="1877" height="303" key="GridCell.Tab.1.center" timestamp="1618751145089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="133" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608962713229" />
-    <state x="600" y="223" width="730" height="593" key="NewModule_or_Project.wizard" timestamp="1605514925962">
+    <state width="1877" height="303" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618751145089" />
+    <state width="1877" height="303" key="GridCell.Tab.1.left" timestamp="1618751145089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="600" y="223" width="730" height="593" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605514925962" />
-    <state x="465" y="189" key="SettingsEditor" timestamp="1606199594646">
+    <state width="1877" height="303" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618751145089" />
+    <state width="1877" height="303" key="GridCell.Tab.1.right" timestamp="1618751145089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="465" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606199594646" />
-    <state x="520" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606267993958">
+    <state width="1877" height="303" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618751145089" />
+    <state x="600" y="223" key="NewModule_or_Project.wizard" timestamp="1615200716080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="520" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606267993957" />
-    <state x="67" y="291" width="999" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605752767572">
+    <state x="600" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1615200716080" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1618756651549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="67" y="291" width="999" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1605752767572" />
-    <state x="662" y="74" width="596" height="891" key="find.popup" timestamp="1605923131016">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618756651549" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618636664706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="662" y="74" width="596" height="891" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605923131016" />
-    <state x="399" y="149" width="1251" height="775" key="new project wizard" timestamp="1605576975331">
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618636664706" />
+    <state x="690" y="279" key="extract.method.dialog" timestamp="1618216897659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="399" y="149" width="1251" height="775" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605576975331" />
-    <state x="655" y="276" key="refactoring.ChangeSignatureDialog" timestamp="1605577391615">
+    <state x="690" y="279" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618216897659" />
+    <state x="662" y="252" width="809" height="536" key="find.popup" timestamp="1618756081523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="276" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605577391615" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1605707421696">
+    <state x="662" y="252" width="809" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618756081523" />
+    <state x="334" y="130" key="new project wizard" timestamp="1614822086266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605707421696" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606285686939">
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1614822086266" />
+    <state x="655" y="276" key="refactoring.ChangeSignatureDialog" timestamp="1618752331213">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606285686939" />
+    <state x="655" y="276" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618752331213" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1615882783234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615882783234" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614906022535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614906022535" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -232,11 +373,6 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0044_通配符匹配.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0032_最长有效括号.java</url>
           <line>39</line>
@@ -297,7 +433,27 @@
           <line>12</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0388_文件的最长绝对路径.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-leetcode-master/src/Problem_0629_K个逆序对数组.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-pratice/src/D0411/Problem_0686_重复叠加字符串匹配.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithmzuo$Problem_0481_.ic" NAME="Problem_0481_神奇字符串 Coverage Results" MODIFIED="1615775936422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>D0215.*</FILTER>
+    </SUITE>
   </component>
 </project>
